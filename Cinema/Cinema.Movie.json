@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65bcb815e58d3a5bc02f0ab0"
+  },
+  "MovieNo": "M1001",
+  "MovieName": "The little things",
+  "MovieDate": "2022-11-10",
+  "Moviehour": "17:00",
+  "age_rating": "R15",
+  "TicketNo": "TK1",
+  "Genres": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bcb815e58d3a5bc02f0ab1"
+  },
+  "MovieNo": "M1002",
+  "MovieName": "Smile",
+  "MovieDate": "2022-11-10",
+  "Moviehour": "21:00",
+  "age_rating": "R18",
+  "TicketNo": "TK2",
+  "Genres": [
+    "Horror"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0fe2c32a89850732dfc92"
+  },
+  "MovieNo": "M1003",
+  "MovieName": "ROGUE",
+  "MovieDate": "2022-11-11",
+  "Moviehour": "17:00",
+  "age_rating": "R15",
+  "TicketNo": "TK3",
+  "Genres": [
+    "Action",
+    "Thriller"
+  ]
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "65c1fa21ffe7e455bbb08759"
+  },
+  "day": "Monday",
+  "offer": " Buy a ticket and get the other for free! ",
+  "duration": "once a month",
+  "offer validty": " For Adults from 18 and above"
+},
+{
+  "_id": {
+    "$oid": "65c1fd60ffe7e455bbb0875b"
+  },
+  "day": " Thursday ",
+  "offer": " 50% discount in ticket price ",
+  "duration": " Weekly ",
+  "offervalidty": " For university students"
+}]

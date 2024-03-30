@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65bcb85ee58d3a5bc02f0abb"
+  },
+  "EmployeeNo": "4420123",
+  "Gender": "Female",
+  "fName": "Hind",
+  "lName": "Alshareef",
+  "BirthDate": "2002-07-09",
+  "PhoneNo": 558941242,
+  "BranchNo": "123456"
+},
+{
+  "_id": {
+    "$oid": "65bcb85ee58d3a5bc02f0abc"
+  },
+  "EmployeeNo": "4421324",
+  "Gender": "Male",
+  "fName": "Omar",
+  "lName": "Althagafi",
+  "BirthDate": "2002-05-30",
+  "PhoneNo": 554312021,
+  "BranchNo": "123457"
+},
+{
+  "_id": {
+    "$oid": "65c0fba532a89850732dfc91"
+  },
+  "EmployeeNo": "4427856",
+  "Gender": "Female",
+  "fName": "Rahaf",
+  "lName": "Mulla",
+  "BirthDate": "2002-10-02",
+  "PhoneNo": 508242315,
+  "BranchNo": "123458"
+},
+{
+  "_id": {
+    "$oid": "65c1af0379264b153f54b086"
+  },
+  "EmployeeNo": "44219867",
+  "Gender": "male",
+  "fName": "Ahmed",
+  "lName": "AlMoqbel",
+  "BirthDate": "2000-09-26",
+  "PhoneNo": 5015142355,
+  "BranchNo": "123457"
+}]

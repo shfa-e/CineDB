@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65c1fe9fffe7e455bbb0875c"
+  },
+  "name": "Popcorn",
+  "price": 10,
+  "category": "Snack",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65c1ff4fffe7e455bbb0875d"
+  },
+  "name": "Loaded Natchos",
+  "price": "25 SR",
+  "category": "Snack",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65c24b39f4922059bf736bf5"
+  },
+  "name": "Soda",
+  "price": "9 SR",
+  "category": "Drink",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65c25009f4922059bf736bfc"
+  },
+  "name": "water",
+  "price": "3 SR",
+  "category": "Drink",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65c27009f4922059bf736bfc"
+  },
+  "name": "coffe",
+  "price": "30 SR",
+  "category": "Drink",
+  "available": "true"
+}]

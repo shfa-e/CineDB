@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "65bcb847e58d3a5bc02f0ab8"
+  },
+  "BranchNo": "123456",
+  "Region": "Mecca",
+  "City": "Jeddah",
+  "Street": "prince Sultan",
+  "Employees": [
+    "4420123"
+  ],
+  "Halls": [
+    {
+      "HallNo": "HA001",
+      "HallPrice": 55,
+      "HallName": "Standard"
+    },
+    {
+      "HallNo": "HA003",
+      "HallPrice": 110,
+      "HallName": "Gold"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f7af32a89850732dfc88"
+  },
+  "BranchNo": "123457",
+  "Region": "Mecca",
+  "City": "Jeddah",
+  "Street": "Tahlia",
+  "Employees": [
+    "4421324"
+  ],
+  "Halls": [
+    {
+      "HallNo": "HA002",
+      "HallPrice": 80,
+      "HallName": "VIP"
+    },
+    {
+      "HallNo": "HA005",
+      "HallPrice": 65,
+      "HallName": "Standard"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f87b32a89850732dfc89"
+  },
+  "BranchNo": "123458",
+  "Region": "Mecca",
+  "City": "Jeddah",
+  "Street": "Obhur",
+  "Employees": [
+    "4427856"
+  ],
+  "Halls": [
+    {
+      "HallNo": "HA003",
+      "HallPrice": 110,
+      "HallName": "GOLD"
+    }
+  ]
+}]

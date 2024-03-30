@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "65c270b21e4dd7d50df45387"
+  },
+  "name": "Abdullah hassan",
+  "email": "Abdullah@gmail.com",
+  "Date of birth": "1/1/1999",
+  "Loyality points": 55,
+  "Membership start date": "1/1/2024",
+  "Payment method": "Credit Card",
+  "membership expiration date": "1/1/2025",
+  "membership type": "premium"
+},
+{
+  "_id": {
+    "$oid": "65c271271e4dd7d50df4538a"
+  },
+  "name": "Eman Taher",
+  "email": "Eman@gmail.com",
+  "Date of birth": "22/2/1988",
+  "Loyality points": 30,
+  "Membership start date": "1/1/2024",
+  "Payment method": "Credit Card",
+  "membership expiration date": "1/1/2025",
+  "membership type": "Standard"
+}]

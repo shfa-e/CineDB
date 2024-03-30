@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65c24354ce3cdb3527bacc8b"
+  },
+  "BranchNo": "B002",
+  "City": "Aberdeen",
+  "Street": "16 Argyll St",
+  "ZipCode": 12354
+},
+{
+  "_id": {
+    "$oid": "65c24354ce3cdb3527bacc8c"
+  },
+  "BranchNo": "B003",
+  "City": "Glasgow",
+  "Street": "163 Main St",
+  "ZipCode": 12344
+},
+{
+  "_id": {
+    "$oid": "65c24354ce3cdb3527bacc8d"
+  },
+  "BranchNo": "B004",
+  "City": "Bristol",
+  "Street": "32 Manse Rd",
+  "ZipCode": 12334
+},
+{
+  "_id": {
+    "$oid": "65c24354ce3cdb3527bacc8e"
+  },
+  "BranchNo": "B005",
+  "City": "London",
+  "Street": "56 Colver Dr",
+  "ZipCode": 12443
+}]

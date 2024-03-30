@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65bcb82de58d3a5bc02f0ab4"
+  },
+  "CustomerNo": "001",
+  "CustomerName": "Ahmed Ali",
+  "BirthDate": "2002-11-19",
+  "Tickets": [
+    {
+      "TicketNo": "TK1",
+      "TicketDate": "2022-09-03",
+      "Tickethour": "3pm",
+      "TicketType": "online",
+      "Receipt": 75.5,
+      "Movies": [
+        "M1001"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bcb82de58d3a5bc02f0ab5"
+  },
+  "CustomerNo": "002",
+  "CustomerName": "Wasan Yasser",
+  "BirthDate": "2001-08-25",
+  "Tickets": [
+    {
+      "TicketNo": "TK2",
+      "TicketDate": "2022-12-04",
+      "Tickethour": "5am",
+      "TicketType": "in branch",
+      "Receipt": 100.5,
+      "Movies": [
+        "M1002"
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0fa8132a89850732dfc8e"
+  },
+  "CustomerNo": "003",
+  "CustomerName": "Mo Khalid",
+  "BirthDate": "1999-05-08",
+  "Tickets": [
+    {
+      "TicketNo": "TK3",
+      "TicketDate": "2022-11-05",
+      "Tickethour": "10pm",
+      "TicketType": "online",
+      "Receipt": 75.5,
+      "Movies": [
+        "M1003"
+      ]
+    }
+  ]
+}]

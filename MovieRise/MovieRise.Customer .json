@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "65c243077a570ce21e999c58"
+  },
+  "customerId": 1,
+  "FName": "Shahad",
+  "LName": "Ali",
+  "CEmail": "nbhghoug@gmail.com",
+  "CPhineNo": {
+    "$numberLong": "9665434536564"
+  },
+  "Day": "Saturday",
+  "Month": "February",
+  "Yaer": 2024
+},
+{
+  "_id": {
+    "$oid": "65c243077a570ce21e999c59"
+  },
+  "customerId": 2,
+  "FName": "farah",
+  "LName": "moha",
+  "CEmail": "jnfkjddfiu@gmail.com",
+  "CPhineNo": {
+    "$numberLong": "96659987654"
+  },
+  "Day": "Monday",
+  "Month": "February",
+  "Yaer": 2024
+},
+{
+  "_id": {
+    "$oid": "65c243077a570ce21e999c5a"
+  },
+  "customerId": 3,
+  "FName": "nor",
+  "LName": "dama",
+  "CEmail": "kkhgf@gmail.com",
+  "CPhineNo": {
+    "$numberLong": "9665998877543"
+  },
+  "Day": "Monday",
+  "Month": "June",
+  "Yaer": 2024
+},
+{
+  "_id": {
+    "$oid": "65c243077a570ce21e999c5b"
+  },
+  "customerId": 4,
+  "FName": "reem",
+  "LName": "kahalid",
+  "CEmail": "hhytre@gmail.com",
+  "CPhineNo": {
+    "$numberLong": "9665338776544"
+  },
+  "Day": "Thursday",
+  "Month": "March",
+  "Yaer": 2024
+},
+{
+  "_id": {
+    "$oid": "65c243077a570ce21e999c5c"
+  },
+  "customerId": 5,
+  "FName": "dana",
+  "LName": "fahad",
+  "CEmail": "utrwej@gmail.com",
+  "CPhineNo": {
+    "$numberLong": "9668865435"
+  },
+  "Day": "Wednesday",
+  "Month": "April",
+  "Yaer": 2024
+}]

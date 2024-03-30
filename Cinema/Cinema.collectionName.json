@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65c1af0379264b153f54b086"
+  },
+  "EmployeeNo": "44219867",
+  "Gender": "male",
+  "fName": "Ehab",
+  "lName": "AlMoqbel",
+  "BirthDate": "2000-09-26",
+  "PhoneNo": 5015142355,
+  "BranchNo": "123457"
+},
+{
+  "_id": {
+    "$oid": "65c1af0379264b153f54b087"
+  },
+  "EmployeeNo": "44219867",
+  "Gender": "male",
+  "fName": "Ehab",
+  "lName": "AlMoqbel",
+  "BirthDate": "2000-09-26",
+  "PhoneNo": 5015142355,
+  "BranchNo": "123457"
+}]
